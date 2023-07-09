@@ -66,7 +66,7 @@ const tiktokresi = "2a78c6d3b550e355dc01cb366b146ab4" //Api Punya Gua anjing
 
 const { Configuration, OpenAIApi } = require("openai");
 const configuration = new Configuration({
-	apiKey: `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`,
+	apiKey: `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`,
 });
 const openai = new OpenAIApi(configuration);
 
